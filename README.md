@@ -3,7 +3,7 @@
 A Flutter project with all the Weekly UI files
 
 ## List
-- [Yacht View](https://github.com/hexoncode/weekly_ui/lib/yacht_view.dart)
+- [Yacht View](https://github.com/hexoncode/weekly_ui/blob/master/lib/yacht_view.dart)
 
 ## Getting Started
 
