@@ -11,10 +11,13 @@ dependencies:
   flutter:
     sdk: flutter
   cached_network_image: ^2.5.0
+  circle_list: ^1.0.4
   circle_wheel_scroll: ^0.0.1+1
   cupertino_icons: ^1.0.0
+  flutter_svg: ^0.19.1
   font_awesome_flutter: ^8.11.0
   google_fonts: ^1.1.1
+  sizer: ^1.1.8
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +25,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/job_search.svg
