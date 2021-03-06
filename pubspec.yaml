@@ -17,7 +17,10 @@ dependencies:
   flutter_svg: ^0.19.1
   font_awesome_flutter: ^8.11.0
   google_fonts: ^1.1.1
+  random_user: ^0.3.0
+  flutter_tindercard: ^0.2.0
   sizer: ^1.1.8
+  flutter_icons: ^1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -27,3 +30,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/job_search.svg
+    - assets/people.svg
