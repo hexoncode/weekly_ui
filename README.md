@@ -3,9 +3,12 @@
 A Flutter project with all the Weekly UI files
 
 ## List
-- [Yacht View](https://github.com/hexoncode/weekly_ui/blob/master/lib/yacht_view.dart)
-- [Travel View](https://github.com/hexoncode/weekly_ui/blob/master/lib/travel_view.dart)
-- [Car Rental View](https://github.com/hexoncode/weekly_ui/blob/master/lib/car_rental_view.dart)
+- [Yacht Booking](https://github.com/hexoncode/weekly_ui/blob/master/lib/yacht_view.dart)
+- [Travel App](https://github.com/hexoncode/weekly_ui/blob/master/lib/travel_view.dart)
+- [Car Rental](https://github.com/hexoncode/weekly_ui/blob/master/lib/car_rental_view.dart)
+- [Job Search](https://github.com/hexoncode/weekly_ui/blob/master/lib/job_search_view.dart)
+- [Music Player](https://github.com/hexoncode/weekly_ui/blob/master/lib/music_player_view.dart)
+- [Dating App](https://github.com/hexoncode/weekly_ui/blob/master/lib/dating_view.dart)
 
 ## Getting Started
 
