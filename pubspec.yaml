@@ -14,13 +14,14 @@ dependencies:
   circle_list: ^1.0.4
   circle_wheel_scroll: ^0.0.1+1
   cupertino_icons: ^1.0.0
+  flutter_icons: ^1.1.0
   flutter_svg: ^0.19.1
+  flutter_tindercard: ^0.2.0
   font_awesome_flutter: ^8.11.0
   google_fonts: ^1.1.1
   random_user: ^0.3.0
-  flutter_tindercard: ^0.2.0
   sizer: ^1.1.8
-  flutter_icons: ^1.1.0
+  sleek_circular_slider: ^1.2.0+web
 
 dev_dependencies:
   flutter_test:
